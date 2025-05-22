@@ -1,0 +1,11 @@
+{
+  "description": "ベースカラーを選ぶと、補完的で調和のとれた色合いが自動生成されます。",
+  "baseColorLabel": "ベースカラー（プライマリ）",
+  "generatedColorLabel": "生成されたカラーデュオ",
+  "copyPrimaryButton": "コピー",
+  "copyPrimaryButtonCopied": "コピー済み",
+  "copySecondaryButton": "コピー",
+  "copySecondaryButtonCopied": "コピー済み",
+  "reload": "カラーを再読み込み",
+  "generatePalette": "パレットをデザインに追加"
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Tamamlayıcı uyumlu tonlar oluşturmak için bir ana renk seçin.",
+  "baseColorLabel": "Ana renk (birincil)",
+  "generatedColorLabel": "Oluşturulan renk ikilisi",
+  "copyPrimaryButton": "Kopyala",
+  "copyPrimaryButtonCopied": "Kopyalandı",
+  "copySecondaryButton": "Kopyala",
+  "copySecondaryButtonCopied": "Kopyalandı",
+  "reload": "Renkleri yeniden yükle",
+  "generatePalette": "Paletleri tasarıma ekle"
+}

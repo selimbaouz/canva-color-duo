@@ -12,6 +12,10 @@
   scrollbar-color: var(--ui-kit-color-typography-quaternary) transparent;
 }
 
+.textBlend {
+  mix-blend-mode: exclusion;
+}
+
 .scrollContainer::-webkit-scrollbar {
   position: absolute;
   width: var(--ui-kit-base-unit);

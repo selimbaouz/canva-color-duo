@@ -1,0 +1,11 @@
+{
+  "description": "Choisissez une couleur de base pour générer automatiquement une teinte complémentaire harmonieuse.",
+  "baseColorLabel": "Couleur de base (principale)",
+  "generatedColorLabel": "Duo de couleurs générées",
+  "copyPrimaryButton": "Copier",
+  "copyPrimaryButtonCopied": "Copié",
+  "copySecondaryButton": "Copier",
+  "copySecondaryButtonCopied": "Copié",
+  "reload": "Recharger les couleurs",
+  "generatePalette": "Ajouter les palettes au design"
+}

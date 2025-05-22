@@ -1,0 +1,11 @@
+{
+  "description": "Wähle eine Grundfarbe, um automatisch einen komplementären harmonischen Farbton zu generieren.",
+  "baseColorLabel": "Grundfarbe (primär)",
+  "generatedColorLabel": "Erzeugtes Farbpaar",
+  "copyPrimaryButton": "Kopieren",
+  "copyPrimaryButtonCopied": "Kopiert",
+  "copySecondaryButton": "Kopieren",
+  "copySecondaryButtonCopied": "Kopiert",
+  "reload": "Farben neu laden",
+  "generatePalette": "Paletten zum Design hinzufügen"
+}

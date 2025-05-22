@@ -1,0 +1,11 @@
+{
+  "description": "기본 색상을 선택하면 보색 조화를 자동으로 생성합니다.",
+  "baseColorLabel": "기본 색상 (기본값)",
+  "generatedColorLabel": "생성된 색상 듀오",
+  "copyPrimaryButton": "복사",
+  "copyPrimaryButtonCopied": "복사됨",
+  "copySecondaryButton": "복사",
+  "copySecondaryButtonCopied": "복사됨",
+  "reload": "색상 새로고침",
+  "generatePalette": "팔레트를 디자인에 추가"
+}

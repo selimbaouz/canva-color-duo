@@ -1,0 +1,11 @@
+{
+  "description": "Pilih warna dasar untuk secara otomatis menghasilkan warna pelengkap yang harmonis.",
+  "baseColorLabel": "Warna dasar (utama)",
+  "generatedColorLabel": "Duet warna yang dihasilkan",
+  "copyPrimaryButton": "Salin",
+  "copyPrimaryButtonCopied": "Disalin",
+  "copySecondaryButton": "Salin",
+  "copySecondaryButtonCopied": "Disalin",
+  "reload": "Muat ulang warna",
+  "generatePalette": "Tambahkan palet ke desain"
+}

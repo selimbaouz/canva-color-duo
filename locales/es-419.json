@@ -1,0 +1,11 @@
+{
+  "description": "Elige un color base para generar automáticamente una tonalidad complementaria armoniosa.",
+  "baseColorLabel": "Color base (primario)",
+  "generatedColorLabel": "Dúo de colores generados",
+  "copyPrimaryButton": "Copiar",
+  "copyPrimaryButtonCopied": "Copiado",
+  "copySecondaryButton": "Copiar",
+  "copySecondaryButtonCopied": "Copiado",
+  "reload": "Recargar colores",
+  "generatePalette": "Agregar paletas al diseño"
+}
